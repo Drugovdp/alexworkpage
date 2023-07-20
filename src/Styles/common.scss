@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Raleway:wght@400;600&display=swap');
+
+body {
+    font-size: 14px;
+    background: #F5F5F5;
+    min-height: 100vh;
+    padding: 1rem;
+    box-sizing: border-box;
+    align-items: center;
+
+    textarea:focus,
+    input:focus {
+        outline: none;
+    }
+}
