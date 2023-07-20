@@ -97,10 +97,9 @@ type TypeWrapperForm = {
 }
 
 const WrapperForm = styled.div<TypeWrapperForm>`
-    position: fixed;
+    position: absolute;
     width: 612px;
     min-width: 612px;
-    height: 946px;
     top: 0;
     left: ${props => props.left};
     background-color: #0F1D45;
@@ -119,7 +118,7 @@ const FormBlock = styled.div`
     display: flex;
     flex-direction: column;
     width: 480px;
-    margin: 108px auto 108px auto;
+    margin: 20% auto 20% auto;
 `
 const FormBlockH1 = styled.h1`
     color: ${GlobalStyle.colorText};

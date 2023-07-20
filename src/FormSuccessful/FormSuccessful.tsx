@@ -55,11 +55,10 @@ type TypeWrapperForm = {
 }
 
 const WrapperForm = styled.div<TypeWrapperForm>`
-    position: fixed;
+    position: absolute;
     display: flex;
     width: 612px;
     min-width: 612px;
-    height: 946px;
     top: 0;
     left: ${props => props.left};
     background-color: #0F1D45;
