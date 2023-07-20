@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/alexworkpage/static/css/main.7c606153.css",
+    "main.js": "/alexworkpage/static/js/main.7e0a3ad0.js",
+    "static/js/787.106f446a.chunk.js": "/alexworkpage/static/js/787.106f446a.chunk.js",
+    "static/media/fonsection.png": "/alexworkpage/static/media/fonsection.d0202aaee619ecb21093.png",
+    "static/media/imgMainFon.png": "/alexworkpage/static/media/imgMainFon.697ddd3bce5da7e269de.png",
+    "index.html": "/alexworkpage/index.html",
+    "static/media/check.svg": "/alexworkpage/static/media/check.d66b555a520d0b3eff00d2e4537dc778.svg",
+    "main.7c606153.css.map": "/alexworkpage/static/css/main.7c606153.css.map",
+    "main.7e0a3ad0.js.map": "/alexworkpage/static/js/main.7e0a3ad0.js.map",
+    "787.106f446a.chunk.js.map": "/alexworkpage/static/js/787.106f446a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c606153.css",
+    "static/js/main.7e0a3ad0.js"
+  ]
+}
